@@ -1,7 +1,7 @@
 import React, { useState ,useEffect } from 'react'
 import style from './product.module.css'
 
-export default function Pizza() {
+export default function Eat() {
   const [food, setFood] = useState([]);
 
   async function getData() {

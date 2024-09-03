@@ -1,13 +1,14 @@
 import Navbar from './Navbar'
-import Pizza from './pizza'
 import Footer from './Footer'
+import Eat from './Eat'
+
 
 
 export default function App() {
   return (
     <div>
       <Navbar />
-      <Pizza />
+      <Eat />
       <Footer />
  
  
